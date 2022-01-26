@@ -10,3 +10,5 @@
 - [x] Fragment
 - [x] No Styling
 - [ ] GitHub Actions
+- [ ] SafeArgs
+- [ ] [square/logcat](https://github.com/square/logcat)
