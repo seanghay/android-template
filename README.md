@@ -5,7 +5,8 @@
 
 ### Preconfigured with
 
-- ViewBinding
-- Navigation Components
-- Fragment
-- No Styling
+- [x] ViewBinding
+- [x] Navigation Components
+- [x] Fragment
+- [x] No Styling
+- [ ] GitHub Actions
