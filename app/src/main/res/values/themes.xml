@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.NumberScanner" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="colorPrimary">@color/ns_product_red</item>
+        <item name="colorPrimaryVariant">@color/ns_product_red_dark</item>
+        <item name="colorOnPrimary">@color/ns_white</item>
+    </style>
+</resources>
