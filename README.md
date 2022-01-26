@@ -1,6 +1,6 @@
 ## Android Template Playground 
 
-> (Not a best practise project template)
+> ⚠️ (Not a best practise project template)
 
 
 ### Preconfigured with
